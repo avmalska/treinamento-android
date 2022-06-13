@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cl_recipient"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_personal_info"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/ic_personal_info"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_recipient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:text="Recipient"
+            android:textColor="@color/black"
+            app:layout_constraintStart_toEndOf="@id/iv_personal_info"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_recipient_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Amelie N Mason"
+            android:textColor="@color/teal_700"
+            app:layout_constraintStart_toStartOf="@id/tv_recipient"
+            app:layout_constraintTop_toBottomOf="@id/tv_recipient" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cl_adress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cl_recipient">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_adress"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/ic_adress_info"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_adress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:text="Adress"
+            android:textColor="@color/black"
+            app:layout_constraintStart_toEndOf="@id/iv_adress"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_adress_info_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="47 Greyfriars Road, CAPHEATON"
+            android:textColor="@color/teal_700"
+            app:layout_constraintStart_toStartOf="@id/tv_adress"
+            app:layout_constraintTop_toBottomOf="@id/tv_adress" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_adress_info_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="United Kingdom"
+            android:textColor="@color/teal_700"
+            app:layout_constraintStart_toStartOf="@id/tv_adress_info_1"
+            app:layout_constraintTop_toBottomOf="@id/tv_adress_info_1" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_adress_info_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="asdasdasda"
+            android:textColor="@color/teal_700"
+            android:maxWidth="280dp"
+            app:layout_constraintStart_toStartOf="@id/tv_adress_info_2"
+            app:layout_constraintTop_toBottomOf="@id/tv_adress_info_2" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cl_adress">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_message"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/ic_message"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:text="Message"
+            android:textColor="@color/black"
+            app:layout_constraintStart_toEndOf="@id/iv_message"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_message_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula est erat, in rhoncus felis laoreet a. Cras nisl tellus, egestas in ullamcorper in, laoreet eget velit. Sed sollicitudin egestas enim sed pharetra. Donec tincidunt cursus molestie. Ut ultricies tincidunt dignissim. Aliquam tristique ipsum eu quam tristique, nec luctus velit efficitur. "
+            android:textColor="@color/teal_700"
+            android:maxWidth="280dp"
+            app:layout_constraintStart_toStartOf="@id/tv_message"
+            app:layout_constraintTop_toBottomOf="@id/tv_message" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/bt_box"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/bt_save"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/teal_700"
+            android:text="SAVE DRAFT"
+            app:layout_constraintEnd_toStartOf="@id/bt_review"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/bt_review"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/teal_700"
+            android:text="REVIEW DESIGN"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@id/bt_save"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
