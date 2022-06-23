@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Nespresso APP</string>
+
+    <string name="txt_coffees_title">Cafés</string>
+    <string name="txt_coffees_subtitle">Cremosos, espumosos, hmm</string>
+
+    <string name="txt_machines_title">Máquinas</string>
+    <string name="txt_machines_subtitle">Sem elas não rola café</string>
+
+    <string name="txt_accessories_title">Acessórios</string>
+    <string name="txt_accessories_subtitle">Pra completar a balaca</string>
+    <string name="title_activity_coffee">CoffeeActivity</string>
+
+    <string name="txt_products">Produtos</string>
+    <string name="txt_favorites">Favoritos</string>
+    <string name="txt_bag">Sacola</string>
+
+    <string name="txt_intensity">Intensidade: %d</string>
+    <string name="txt_error_title">Opss, algo deu errado</string>
+    <string name="txt_error_subtitle">Tente novamente mais tarde</string>
+
+</resources>

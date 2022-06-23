@@ -1,0 +1,381 @@
+{
+  "capsulas": [
+    {
+      "categoria": "Edição Limitada",
+      "cafes": [
+        {
+          "id": 1,
+          "nome": "Hawaii Kona",
+          "descricao": "CAFÉ FRUTADO, EQUILIBRADO E RARO",
+          "intensidade": 5,
+          "precoUnitario": 6,
+          "imagem": "https://www.nespresso.com/ecom/sys_master/public/13334877011998/Desktop-Standard-80x80.png",
+          "medidas": [
+            "espresso"
+          ]
+        },
+        {
+          "id": 2,
+          "nome": "Aged Sumatra",
+          "descricao": "CAFÉ ARTESANAL, APRIMORADO PELO TEMPO",
+          "intensidade": 7,
+          "precoUnitario": 4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/13415712784414/C-0625-Responsive-Standard-80x80.png",
+          "medidas": [
+            "espresso",
+            "lungo"
+          ]
+        }
+      ]
+    },
+    {
+      "categoria": "Master Origin",
+      "cafes": [
+        {
+          "id": 3,
+          "nome": "India",
+          "descricao": "CAFÉ COM ROBUSTA DE MONÇÕES",
+          "intensidade": 11,
+          "precoUnitario": 2.8,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10840367792158/C-0359-India-80x80.png",
+          "medidas": [
+            "espresso",
+            "lungo"
+          ]
+        },
+        {
+          "id": 4,
+          "nome": "Indonesia",
+          "descricao": "CAFÉ COM ARÁBICA NO MÉTODO DE DESCASCAMENTO ÚMIDO",
+          "intensidade": 8,
+          "precoUnitario": 2.8,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10820727865374/C-0360-Indonesia-80x80.png",
+          "medidas": [
+            "espresso",
+            "lungo"
+          ]
+        },
+        {
+          "id": 5,
+          "nome": "Colombia",
+          "descricao": "CAFÉ COM ARÁBICA DE COLHEITA TARDIA",
+          "intensidade": 6,
+          "precoUnitario": 2.8,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10842190675998.png",
+          "medidas": [
+            "espresso",
+            "lungo"
+          ]
+        },
+        {
+          "id": 6,
+          "nome": "Nicaragua",
+          "descricao": "CAFÉ COM ARÁBICA \"BLACK-HONEY\"",
+          "intensidade": 5,
+          "precoUnitario": 2.8,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10838071672862/C-0362-nicaragua-80x80.png",
+          "medidas": [
+            "espresso",
+            "lungo"
+          ]
+        },
+        {
+          "id": 7,
+          "nome": "Ethiopia",
+          "descricao": "CAFÉ COM ARÁBICA DE SECAGEM NATURAL",
+          "intensidade": 4,
+          "precoUnitario": 2.8,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10831332802590/C-0363-Ethiopia-80x80.png",
+          "medidas": [
+            "espresso",
+            "lungo"
+          ]
+        }
+      ]
+    },
+    {
+      "categoria": "Inspirazione Italiana",
+      "cafes": [
+        {
+          "id": 8,
+          "nome": "Napoli",
+          "descricao": "CAFÉ EXCEPCIONALMENTE TORRADO E CREMOSO",
+          "intensidade": 13,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12807335641118/Desktop-Standard-80x80.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 9,
+          "nome": "Palermo Kazaar",
+          "descricao": "CAFÉ EXCEPCIONALMENTE INTENSO E LICOROSO",
+          "intensidade": 12,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12839055949854/Desktop-Standard-80x80.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 10,
+          "nome": "Ristretto Italiano",
+          "descricao": "CAFÉ PODEROSO E CONTRASTANTE",
+          "intensidade": 10,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12807617347614/Desktop-Standard-80x80.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 11,
+          "nome": "Firenze Arpeggio",
+          "descricao": "CAFÉ INTENSO E CREMOSO",
+          "intensidade": 9,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12836992745502/Desktop-Standard-80x80.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 12,
+          "nome": "Venezia",
+          "descricao": "CAFÉ DENSO E HARMONIOSO",
+          "intensidade": 8,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12836853973022/Desktop-Standard-2000x2000.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 13,
+          "nome": "Roma",
+          "descricao": "CAFÉ ENCORPADO E BALANCEADO",
+          "intensidade": 8,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12839352893470/Desktop-Standard-2000x2000.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 14,
+          "nome": "Genova Livanto",
+          "descricao": "CAFÉ REDONDO E BALANCEADO",
+          "intensidade": 6,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12839365705758/Desktop-Standard-2000x2000.png",
+          "medidas": [
+            "espresso"
+          ]
+        },
+        {
+          "id": 15,
+          "nome": "Firenze Arpeggio Decaffeinato",
+          "descricao": "CAFÉ INTENSO E CREMOSO DESCAFEINADO",
+          "intensidade": 9,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/13088659963934/arpeggio-decaf.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 16,
+          "nome": "Ristretto Italiano Decaffeinato",
+          "descricao": "CAFÉ PODEROSO E CONTRASTANTE DESCAFEINADO",
+          "intensidade": 10,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/13088645775390/ristreto-decafv2.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        }
+      ]
+    },
+    {
+      "categoria": "Espresso & Lungo",
+      "cafes": [
+        {
+          "id": 17,
+          "nome": "Volluto",
+          "descricao": "CAFÉ ADOCICADO E LEVE",
+          "intensidade": 4,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10386858278942/C-0039-2000x2000.png",
+          "medidas": [
+            "espresso"
+          ]
+        },
+        {
+          "id": 18,
+          "nome": "Cosi",
+          "descricao": "CAFÉ SUAVE E LEVEMENTE TORRADO",
+          "intensidade": 4,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10386856312862/C-0004-2000x2000.png",
+          "medidas": [
+            "espresso"
+          ]
+        },
+        {
+          "id": 19,
+          "nome": "Linizio Lungo",
+          "descricao": "CAFÉ SUAVE E HARMONIZADO",
+          "intensidade": 4,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10386858541086/C-0057-2000x2000.png",
+          "medidas": [
+            "lungo"
+          ]
+        },
+        {
+          "id": 20,
+          "nome": "Vivalto Lungo",
+          "descricao": "CAFÉ COMPLEXO E BALANCEADO",
+          "intensidade": 4,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10386858082334/C-0038-2000x2000.png",
+          "medidas": [
+            "lungo"
+          ]
+        },
+        {
+          "id": 21,
+          "nome": "Volluto Decaffeinato",
+          "descricao": "CAFÉ ADOCICADO E LEVE DESCAFEINADO",
+          "intensidade": 4,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/13057317896222/voll-decafv2-1-.png",
+          "medidas": [
+            "espresso"
+          ]
+        },
+        {
+          "id": 22,
+          "nome": "Vivalto Lungo Decaffeinato",
+          "descricao": "CAFÉ ADOCICADO E LEVE DESCAFEINADO",
+          "intensidade": 4,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/13057322680350/vivalto-decafv2-1-.png",
+          "medidas": [
+            "lungo"
+          ]
+        },
+        {
+          "id": 23,
+          "nome": "Capriccio",
+          "descricao": "CAFÉ COMPLEXO E DIFERENCIADO",
+          "intensidade": 5,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10386856116254/C-0003-2000x2000.png",
+          "medidas": [
+            "espresso"
+          ]
+        },
+        {
+          "id": 24,
+          "nome": "Fortissio Lungo",
+          "descricao": "CAFÉ ESTRUTURADO E ENCORPADO",
+          "intensidade": 8,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10386856902686/C-0014-2000x2000.png",
+          "medidas": [
+            "lungo"
+          ]
+        },
+        {
+          "id": 25,
+          "nome": "Envivo Lungo",
+          "descricao": "CAFÉ POTENTE E CARAMELIZADO",
+          "intensidade": 9,
+          "precoUnitario": 2.4,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10386863685662/C-0210-2000x2000.png",
+          "medidas": [
+            "lungo"
+          ]
+        }
+      ]
+    },
+    {
+      "categoria": "Barista Creations",
+      "cafes": [
+        {
+          "id": 26,
+          "nome": "Cocoa Truffle",
+          "descricao": "CAFÉ COM AROMA DE TRUFA DE CHOCOLATE AMARGO",
+          "precoUnitario": 2.6,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12923269480478/C-0602-Responsive-Standard-2000x2000-.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 27,
+          "nome": "Caramel Crème Brûlée",
+          "descricao": "CAFÉ COM AROMA DE CARAMELO CRÉME BRÛLÉE",
+          "precoUnitario": 2.6,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12923266433054/C-0601-Responsive-Standard-2000x2000-.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 28,
+          "nome": "Vanilla Éclair",
+          "descricao": "CAFÉ COM AROMA DE ÉCLAIR DE BAUNILHA",
+          "precoUnitario": 2.6,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/13044036010014/C-0600-Responsive-Standard-2000x2000-.png",
+          "medidas": [
+            "ristretto",
+            "espresso"
+          ]
+        },
+        {
+          "id": 29,
+          "nome": "Corto",
+          "descricao": "CAFÉ PARA RECEITAS INTENSAS COM LEITE",
+          "precoUnitario": 2.6,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12315110637598/C-0293-Original-Corto-2000x2000.png",
+          "medidas": [
+            "lungo"
+          ]
+        },
+        {
+          "id": 30,
+          "nome": "Scuro",
+          "descricao": "CAFÉ PARA RECEITAS EQUILIBRADAS COM LEITE",
+          "precoUnitario": 2.6,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12315109359646/C-0292-Original-Scuro-2000x2000.png",
+          "medidas": [
+            "lungo"
+          ]
+        },
+        {
+          "id": 31,
+          "nome": "Chiaro",
+          "descricao": "CAFÉ PARA RECEITAS DOCES E CREMOSAS COM LEITE",
+          "precoUnitario": 2.6,
+          "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12315108376606/C-0291-Original-Chiaro-2000x2000.png",
+          "medidas": [
+            "lungo"
+          ]
+        }
+      ]
+    }
+  ]
+}

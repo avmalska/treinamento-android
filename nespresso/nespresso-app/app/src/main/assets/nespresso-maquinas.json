@@ -1,0 +1,102 @@
+{
+  "maquinas": [
+    {
+      "id": 1,
+      "nome": "Inissia",
+      "preco": 499,
+      "descricao": "Premiada por seu compacto design, a Inissia está aqui para garantir que a sua xícara de café seja prática, sem deixar nada fora do lugar.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/13182854103070/Inissia-2000x2000.png"
+    },
+    {
+      "id": 2,
+      "nome": "Essenza Mini",
+      "preco": 549,
+      "descricao": "A Essenza Mini, com duas opções de modelo, é a menor cafeteira Nespresso e dá um toque de personalidade a todos os estilos e decorações.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12197792874526/Essenza-preto.png"
+    },
+    {
+      "id": 3,
+      "nome": "Essenza Mini & Aeroccino3",
+      "preco": 849,
+      "descricao": "Design e personalidade para o seu cantinho Nespresso. Nossa menor cafeteira, feita para seus melhores Espressos e Lungos. Combine com o Aeroccino3 para preparar receitas com leite.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12197794250782/Essenza-e-Aero-preto-fosco.png"
+    },
+    {
+      "id": 4,
+      "nome": "Pixie",
+      "preco": 699,
+      "descricao": "Seu design industrial dá um toque de Barista ao ritual do café. Faça Espressos ou Lungos em casa com apenas um botão.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12772119117854/Pixie-Red.png"
+    },
+    {
+      "id": 5,
+      "nome": "CitiZ",
+      "preco": 799,
+      "descricao": "União de alta tecnologia e design retro-moderno, a dimensão compacta da CitiZ se encaixa perfeitamente em todos os ambientes.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12824286068766/Citiz-Cherry-2000x2000-Frontal.png"
+    },
+    {
+      "id": 6,
+      "nome": "CitiZ & Aeroccino3",
+      "preco": 1099,
+      "descricao": "União de alta tecnologia e design retro-moderno, a dimensão compacta da CitiZ se encaixa perfeitamente em todos os ambientes.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12896355057694/citiz-white-2000x2000.png"
+    },
+    {
+      "id": 7,
+      "nome": "Essenza Plus",
+      "preco": 899,
+      "descricao": "Café com muito mais opções para agradar a você e à família inteira. Conheça a máquina que pede seu Nespresso favorito através do botão de compra automática.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12911623307294/DRange-Red.png"
+    },
+    {
+      "id": 8,
+      "nome": "Lattissima One",
+      "preco": 1099,
+      "descricao": "A máquina mais prática para quem gosta de café com leite. Cappuccino ou Latte Macchiato? É só adicionar leite e ela prepara a receita na medida certa.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12197800116254/Lattissima-Branco.png"
+    },
+    {
+      "id": 9,
+      "nome": "Expert",
+      "preco": 1299,
+      "descricao": "Personalize cada xícara de café na sua casa com uma variedade especial de tamanhos e temperaturas. A tecnologia da Expert torna você um Especialista em café.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12197799133214/Expert.png"
+    },
+    {
+      "id": 10,
+      "nome": "Expert & Aeroccino3",
+      "preco": 1599,
+      "descricao": "Personalize cada xícara de café na sua casa com uma variedade especial de tamanhos e temperaturas. A tecnologia da Expert torna você um Especialista em café. Combine com o Aeroccino3 para preparar receitas com leite.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12197799428126/Expert-Combo.png"
+    },
+    {
+      "id": 11,
+      "nome": "Lattissima Touch",
+      "preco": 1599,
+      "descricao": "Prepare-se para infinitas possibilidades com café e leite. Cappuccinos, Lattes, Macchiatos e muito mais para surpreender você e todos em casa.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12197801000990/Lattissima-Aluminio.png"
+    },
+    {
+      "id": 12,
+      "nome": "Gran Lattissima",
+      "preco": 2499,
+      "descricao": "Agora você pode desfrutar a experiência de uma cafeteria completa no conforto da sua casa, com seis variedades de receitas de leite.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12567391567902/Desktop-Standard-2000x2000.png"
+    },
+    {
+      "id": 13,
+      "nome": "Creatista",
+      "preco": 2999,
+      "descricao": "Com 8 tipos de receitas com café e até 11 possibilidades de criações com leite, a Creatista é mais do que uma máquina. Seu acabamento em inox escovado e refinado combina perfeitamente no ambiente de sua preferência.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/12448076005406/NESP.0193.006.M00.AF.190603.Creatista-Ebanner-PDP-2000x2000.png"
+    },
+    {
+      "id": 14,
+      "nome": "Barista",
+      "preco": 1099,
+      "descricao": "Intuitiva e conectada, a Barista é a parceira perfeita para a sua máquina Nespresso. Faça de refrescantes Iced Coffees a Cappuccinos mais elaborados usando café, seus ingredientes favoritos e o App Nespresso.",
+      "imagem": "https://www.nespresso.com/ecom/medias/sys_master/public/10755477012510/Barista-2000x2000-noreflection.png"
+    }
+  ]
+}
