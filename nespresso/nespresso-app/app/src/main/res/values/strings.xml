@@ -18,5 +18,6 @@
     <string name="txt_intensity">Intensidade: %d</string>
     <string name="txt_error_title">Opss, algo deu errado</string>
     <string name="txt_error_subtitle">Tente novamente mais tarde</string>
+    <string name="txt_machine_info_button">Adicionar à sacola</string>
 
 </resources>

@@ -7,12 +7,13 @@ import br.com.cwi.nespresso_app.databinding.ActivityAccessoryBinding
 import br.com.cwi.nespresso_app.domain.entity.Type
 import br.com.cwi.nespresso_app.presentation.base.BaseBottomNavigation
 import br.com.cwi.nespresso_app.presentation.extension.visibleOrGone
+import org.koin.androidx.viewmodel.ext.android.viewModel
 
 class AccessoryActivity : BaseBottomNavigation() {
 
     private lateinit var binding: ActivityAccessoryBinding
 
-    private val viewModel = AccessoryViewModel()
+    private val viewModel: AccessoryViewModel by viewModel()
 
     override val currentTab: Int = R.id.products_menu
 

@@ -8,13 +8,14 @@ import br.com.cwi.nespresso_app.domain.entity.Type
 import br.com.cwi.nespresso_app.presentation.base.BaseBottomNavigation
 import br.com.cwi.nespresso_app.presentation.extension.visibleOrGone
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import org.koin.androidx.viewmodel.ext.android.viewModel
 import java.util.*
 
 class CoffeeActivity : BaseBottomNavigation() {
 
     private lateinit var binding: ActivityCoffeeBinding
 
-    private val viewModel = CoffeeViewModel()
+    private val viewModel : CoffeeViewModel by viewModel()
 
     override val currentTab: Int = R.id.products_menu
 

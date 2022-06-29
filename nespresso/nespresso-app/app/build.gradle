@@ -42,6 +42,7 @@ ext {
     moshi_version = "1.12.0"
     glide_version = "4.12.0"
     retrofit_version = "2.9.0"
+    koin_version = "2.1.5"
 }
 
 dependencies {
@@ -69,4 +70,9 @@ dependencies {
     // Retrofit
     implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
     implementation "com.squareup.retrofit2:converter-moshi:$retrofit_version"
+
+    //Koin
+    implementation "org.koin:koin-android:$koin_version"
+    implementation "org.koin:koin-androidx-scope:$koin_version"
+    implementation "org.koin:koin-androidx-viewmodel:$koin_version"
 }
