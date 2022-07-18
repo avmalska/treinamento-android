@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home_menu"
+        android:enabled="true"
+        android:icon="@drawable/hearthstone_logo"
+        android:title="Cards"/>
+    <item
+        android:id="@+id/customcards_menu"
+        android:enabled="true"
+        android:icon="@drawable/hearthstone_card_logo"
+        android:title="Custom Cards"/>
+</menu>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HearthstoneCards</string>
+    <string name="classes_category">Classes</string>
+    <string name="sets_category">Sets</string>
+    <string name="races_category">Races</string>
+    <string name="qualitys_category">Qualitys</string>
+    <string name="factions_category">Factions</string>
+    <string name="types_category">Types</string>
+    <string name="take_picture_btn">Take Picture</string>
+    <string name="card_name_txt_input">Card Name</string>
+    <string name="save_card_btn">Save Card</string>
+    <string name="create_new_card_btn">Create New Card</string>
+    <string name="view_custom_cards_btn">View Custom Cards</string>
+    <string name="something_went_wrong_error">Something Went Wrong</string>
+    <string name="please_wait_a_few_minutes_then_try_again_error">Please wait a few minutes then try again.</string>
+</resources>

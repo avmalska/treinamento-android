@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="br.com.cwi.hearthstonecards">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".MainApplication"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/hearthstone_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/hearthstone_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HearthstoneCards"
+        tools:targetApi="31">
+        <activity
+            android:name=".presentation.feature.customCards.CustomCardsActivity"
+            android:exported="false"
+            android:label="Custom Cards"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.feature.subcategory.SubcategoryActivity"
+            android:exported="false"
+            android:label="Sub Categories"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.feature.card.CardActivity"
+            android:exported="false"
+            android:label="Cards"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.feature.createCustomCard.CreateCustomCardActivity"
+            android:exported="false"
+            android:label="Create Custom Card"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.feature.cardDetails.CardDetailsActivity"
+            android:exported="false"
+            android:label="Card Details"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.feature.customCardDetails.CustomCardDetailsActivity"
+            android:exported="false"
+            android:label="Custom Card Details"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.feature.listedCustomCards.ListedCustomCardActivity"
+            android:exported="false"
+            android:label="Custom Cards List"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".presentation.feature.categories.CategoriesActivity"
+            android:exported="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

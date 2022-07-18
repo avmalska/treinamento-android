@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/drawable/ic_bag.xml" value="0.1935" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/drawable/ic_card.xml" value="0.2355" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/drawable/ic_favorite_rounded.xml" value="0.1935" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/drawable/tab_color.xml" value="0.1935" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_card.xml" value="0.33" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_card_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_card_subcategory.xml" value="0.30085470085470084" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_categories.xml" value="0.36666666666666664" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_create_custom_card.xml" value="0.33" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_custom_card_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_custom_cards.xml" value="0.36666666666666664" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_favorites.xml" value="0.358695652173913" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_home.xml" value="0.358695652173913" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_listed_cards.xml" value="0.33" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_listed_custom_cards.xml" value="0.36666666666666664" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/item_card_category.xml" value="0.358695652173913" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/item_listed_card.xml" value="0.36666666666666664" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/view_bottom_navigation.xml" value="0.358695652173913" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/view_category_buttons.xml" value="0.25" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/view_error.xml" value="0.33" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/layout/view_loading.xml" value="0.3" />
+        <entry key="..\:/CRESCER/treinamento-android/HearthstoneCards/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.30085470085470084" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
